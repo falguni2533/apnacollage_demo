@@ -1,2 +1,3 @@
 # apnacollage_demo
-This is my first repo
+This is my git first repo
+author- Falguni jain
